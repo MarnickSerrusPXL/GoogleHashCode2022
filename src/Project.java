@@ -7,6 +7,7 @@ public class Project {
     public int bestBefore;
     public int score;
     public List<Skill> skills;
+    public List<String> names;
 
     public Project() {
         this.skills = new ArrayList<>();
