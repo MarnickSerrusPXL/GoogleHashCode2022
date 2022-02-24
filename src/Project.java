@@ -11,6 +11,7 @@ public class Project {
 
     public Project() {
         this.skills = new ArrayList<>();
+        this.names = new ArrayList<>();
     }
 
     public String getName() {
